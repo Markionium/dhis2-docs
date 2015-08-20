@@ -43,6 +43,8 @@
     <xsl:param name="graphicsize.use.img.src.path">0</xsl:param>
 	<xsl:param name="ignore.image.scaling" select="0"></xsl:param>
 -->
+
+
 <!--###################################################
                    Global attributes
     ################################################### --> 
@@ -53,6 +55,8 @@
 	 <!-- Hide URL but show footnotes instead -->
      <xsl:param name="ulink.show" select="0"/>
      <xsl:param name="ulink.footnotes" select="1"/>
+  <!-- <xsl:param name="img.src.path">resources/images/</xsl:param>
+  <xsl:param name="keep.relative.image.uris">false</xsl:param> -->
 <!--###################################################
                    Custom Title Page
     ################################################### --> 

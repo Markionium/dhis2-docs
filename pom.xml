@@ -353,8 +353,23 @@
 							<paperType>A4</paperType>
 							<includes>dhis2_user_manual_en.xml</includes>
 							<sourceDirectory>${docbook.source}/en/</sourceDirectory>
+							<!--Hack to deal with relative directories -->							
+							<preProcess>
+									<copy todir="${docbook.source}/en/mobile/resources/images/dhis_mobile/">
+									<fileset dir="${docbook.source}/en/resources/images/dhis_mobile/" />
+									</copy>
+									<copy todir="${docbook.source}/en/mobile/resources/images/dhis2_mobile_sms/">
+									<fileset dir="${docbook.source}/en/resources/images/dhis2_mobile_sms/" />
+									</copy>
+									<copy todir="${docbook.source}/en/mobile/resources/images/dhis2_mobile_web_based/">
+									<fileset dir="${docbook.source}/en/resources/images/dhis2_mobile_web_based/" />
+									</copy>
+
+							</preProcess>
 							<postProcess>
 								<copy file="target/docbkx/pdf/dhis2_user_manual_en.pdf" todir="${docbook.target}/en/user" />
+								<delete dir="${docbook.source}/en/mobile/resources/"/>
+
 							</postProcess>
 						</configuration>
 					</execution>
@@ -391,6 +406,7 @@
 							<paperType>A4</paperType>
 							<includes>ccei_user_manual_en.xml</includes>
 							<sourceDirectory>${docbook.source}/en/</sourceDirectory>
+							<imgSrcPath>${docbook.source}/en/</imgSrcPath>
 							<postProcess>
 								<copy file="target/docbkx/pdf/ccei_user_manual_en.pdf" todir="${docbook.target}/en/ccei-user" />
 							</postProcess>
@@ -447,7 +463,6 @@
 							<doubleSided>1</doubleSided>
 							<paperType>A4</paperType>
 							<includes>dhis2_documentation_guide_book.xml</includes>
-							<sourceDirectory>${docbook.source}/en/</sourceDirectory>
 							<postProcess>
 								<copy file="target/docbkx/pdf/dhis2_documentation_guide_book.pdf" tofile="${docbook.target}/en/implementer/dhis2_documentation_guide.pdf" />
 							</postProcess>

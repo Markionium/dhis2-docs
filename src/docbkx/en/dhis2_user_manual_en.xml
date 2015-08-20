@@ -30,7 +30,7 @@
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_import_export.xml" encoding="UTF-8"/>
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_data_administration.xml" encoding="UTF-8"/>
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_settings.xml" encoding="UTF-8"/>
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_mobile.xml" encoding="UTF-8"/>
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mobile/dhis2_user_man_mobile.xml" encoding="UTF-8"/>
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_using_event_capture.xml" encoding="UTF-8"/>
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_using_event_reports.xml" encoding="UTF-8"/>
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="dhis2_user_man_using_event_visualizer.xml" encoding="UTF-8"/>
