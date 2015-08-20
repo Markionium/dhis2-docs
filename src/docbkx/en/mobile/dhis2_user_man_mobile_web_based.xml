@@ -16,7 +16,7 @@
     <para><screenshot>
         <mediaobject>
           <imageobject>
-            <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-login.png"/>
+            <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-login.png"/>
           </imageobject>
         </mediaobject>
       </screenshot></para>
@@ -24,7 +24,7 @@
     <para><screenshot>
         <mediaobject>
           <imageobject>
-            <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-menu.PNG"/>
+            <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-menu.PNG"/>
           </imageobject>
         </mediaobject>
       </screenshot></para>
@@ -54,7 +54,7 @@
     <para>- <emphasis role="bold">Settings:</emphasis> User-information (e.g.: First-name, Surname,
       Phone number, E-mail) and the Interface language.</para>
     <para><emphasis role="bold">- Logout:</emphasis> to log out the application.</para>
-    <para><emphasis role="bold">- Desktop version</emphasis>: navigate to the desktop version of DHIS2 for administration. This require a lot of resources from the client mobile, for example: the sufficient memory to load the pages. Not recommended for the normal GPRS/3G/... phones.</para>
+    <para><emphasis role="bold">- Desktop version</emphasis>: navigate to the desktop version of DHIS2 for administration. This require a lot o../resources from the client mobile, for example: the sufficient memory to load the pages. Not recommended for the normal GPRS/3G/... phones.</para>
     <para>The list above will be explained in details:</para>
     <orderedlist>
       <listitem>
@@ -64,7 +64,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-aggregate-reporting.PNG"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-aggregate-reporting.PNG"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -73,7 +73,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-select-orgunit.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-select-orgunit.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -81,7 +81,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-select-dataset.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-select-dataset.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -89,7 +89,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-select-period.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-select-period.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -97,7 +97,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-entry.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-entry.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -105,7 +105,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-entry-complete-save.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-entry-complete-save.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -117,7 +117,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-menu-2.PNG"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-menu-2.PNG"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -129,7 +129,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-find-person-1.PNG"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-find-person-1.PNG"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -139,7 +139,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-findPersonStep2.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-findPersonStep2.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -150,7 +150,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-findPersonStep3.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-findPersonStep3.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -158,7 +158,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-findPersonStep3.1.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-findPersonStep3.1.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -167,13 +167,13 @@
         <para>2.2: <emphasis role="italic"><emphasis role="bold">Visit Schedule</emphasis>: </emphasis>Choose An Organization Unit<para><screenshot>
               <mediaobject>
                 <imageobject>
-                  <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-org.png"/>
+                  <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-org.png"/>
                 </imageobject>
               </mediaobject>
             </screenshot></para><para><screenshot>
               <mediaobject>
                 <imageobject>
-                  <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-activityPlan.png"/>
+                  <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-activityPlan.png"/>
                 </imageobject>
               </mediaobject>
             </screenshot></para><itemizedlist>
@@ -183,7 +183,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-BE.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-BE.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -191,7 +191,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-PGS.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-PGS.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -199,7 +199,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-details.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-details.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -207,7 +207,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-details-info.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-details-info.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -220,7 +220,7 @@
               <para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-activityPlan-singleEvent.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-activityPlan-singleEvent.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para>
@@ -230,27 +230,27 @@
             <listitem>Step 1: Entry personal information<para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep1.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep1.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para></listitem>
             <listitem>Step 2: Enroll program for the person just been registered, then click &quot;Enroll&quot;.<para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep2.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep2.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para></listitem>
             <listitem>Step 3: Entry required information for the chosen program, then click &quot;Enroll&quot;<para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep3.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep3.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para><para>Here is the result:</para><para><screenshot>
                   <mediaobject>
                     <imageobject>
-                      <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep4.png"/>
+                      <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-personRegistrationStep4.png"/>
                     </imageobject>
                   </mediaobject>
                 </screenshot></para></listitem>
@@ -258,7 +258,7 @@
         <para>2.4: <emphasis role="bold">Anonymous:</emphasis> Entries for anonymous person based on specific programs<para><screenshot>
               <mediaobject>
                 <imageobject>
-                  <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-tracking-anonymous.png"/>
+                  <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-tracking-anonymous.png"/>
                 </imageobject>
               </mediaobject>
             </screenshot></para> </para>
@@ -270,7 +270,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-messages-menu.PNG"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-messages-menu.PNG"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -278,7 +278,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-message-conversations.PNG"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-message-conversations.PNG"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -286,7 +286,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-messages-reply.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-messages-reply.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -299,7 +299,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-reports.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-reports.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -313,7 +313,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-settings.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-settings.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -321,7 +321,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-settings-update.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-settings-update.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -331,7 +331,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-logout.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-logout.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -342,7 +342,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -350,7 +350,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version-GUI.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version-GUI.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -361,7 +361,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-data-entry.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-data-entry.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -370,7 +370,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-org.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-org.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -378,7 +378,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-AC.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-AC.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -390,7 +390,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-BE.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-BE.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -399,7 +399,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-PGS.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-PGS.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -408,7 +408,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-details.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-choose-details.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -416,7 +416,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-namebased-details-info.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-namebased-details-info.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -428,7 +428,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -436,7 +436,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration-choose-OU.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration-choose-OU.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -444,7 +444,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration-form.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration-form.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -454,7 +454,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration-form-success.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-registration-form-success.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -466,7 +466,7 @@
         <screenshot>
           <mediaobject>
             <imageobject>
-              <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment.png"/>
+              <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment.png"/>
             </imageobject>
           </mediaobject>
         </screenshot>
@@ -474,7 +474,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-searchBF.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-searchBF.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -482,7 +482,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-foundBF.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-foundBF.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -492,7 +492,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-4BF.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-4BF.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -500,7 +500,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-date.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-date.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -508,7 +508,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-success.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-beneficiary-enrollment-success.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -520,7 +520,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-messages.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-messages.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -528,7 +528,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-messages-unread.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-messages-unread.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -536,7 +536,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-messages-reply.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-messages-reply.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -549,7 +549,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-reports.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-reports.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -563,7 +563,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-settings.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-settings.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -571,7 +571,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-settings-update.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-settings-update.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -583,7 +583,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-feedback.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-feedback.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -591,7 +591,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-feedback-new.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-feedback-new.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -599,7 +599,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-feedback-listed-in-messages.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-feedback-listed-in-messages.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -609,7 +609,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-logout.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-logout.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -620,7 +620,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
@@ -628,7 +628,7 @@
         <para><screenshot>
             <mediaobject>
               <imageobject>
-                <imagedata width="40%" align="center" fileref="resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version-GUI.png"/>
+                <imagedata width="40%" align="center" fileref="../resources/images/dhis2_mobile_web_based/mobile-browser-desktop-version-GUI.png"/>
               </imageobject>
             </mediaobject>
           </screenshot></para>
