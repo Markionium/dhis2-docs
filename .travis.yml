@@ -8,7 +8,7 @@ git:
   depth: 9999999 
 branches:
   only:
-    - 2.21
+    - 2_21
 before_install:
     - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
     - git submodule update --init --recursive
