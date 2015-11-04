@@ -19,6 +19,7 @@ if [ "$TRAVIS_REPO_SLUG" == "dhis2/dhis2-docs" ]  && [ "$TRAVIS_PULL_REQUEST" ==
     cp -R ${TRAVIS_BUILD_DIR}/target/site/en ${HOME}/gh-pages/${TRAVIS_BRANCH}
     # Add the landing pages for the github pages webpage
 	cp ${TRAVIS_BUILD_DIR}/.utility/index.html ${HOME}/gh-pages/
+    cp -r ${TRAVIS_BUILD_DIR}/.utility/js ${HOME}/gh-pages/js
 
     cd ${HOME}/gh-pages/
 	
